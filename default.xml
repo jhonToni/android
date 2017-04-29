@@ -507,7 +507,7 @@
 <!-- END AOSP -->
 
 <!-- BEGIN MEDIATEK -->
-  <project path="device/mediatek/mt6582" name="rohantaneja/android_device_mediatek_mt6582" revision="cm-13.0" />
-  <project path="vendor/mediatek/mt6582" name="rohantaneja/android_vendor_mediatek_mt6582" revision="cm-13.0" />
+  <project path="device/micromax/a106" name="sunmughan/android_micromax_a106" revision="cm-13.0" />
+  <project path="vendor/micromax/a106" name="sunmughan/android_vendor_micromax_a106" revision="cm-13.0" />
 <!-- END MEDIATEK -->
 </manifest>
